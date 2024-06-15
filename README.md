@@ -9,12 +9,14 @@ Advantages:-
 • Robustness to outliers etc.
 
 Machine learning is a branch of Artificial Intelligence (AI) where computers learn to act, adapt to new data without being programmed to do so. The computer is able to act independently of human interaction.
+
 Types of Machine Learning Algorithms:
  Supervised Algorithm: The algorithm learns from labeled data, where each input is associated with a corresponding target label. The goal is to learn a mapping from inputs to outputs .
  Unsupervised Algorithm: The algorithm learns patterns from unlabeled data, identifying hidden structures or relationships within the data.
  Reinforcement Algorithm: The algorithm learns to make decisions by interacting with an environment. It receives feedback in the form of rewards or penalties and adjusts its actions to maximize cumulative reward.
 
 Algorithms Used:
+
  Logistic Regression: Suited for predicting categorical outcomes, logistic regression distinguishes itself from linear regression by focusing on classification problems.
  K-Nearest Neighbors (KNN): Operating under supervised learning, KNN relies on similarity between new and existing data points to assign the new point to a category most similar to its neighbors.
  Support Vector Machine (SVM): Widely-used for classification and regression tasks, SVM aims to create optimal decision boundaries in n- dimensional space to segregate data points into distinct classes.
